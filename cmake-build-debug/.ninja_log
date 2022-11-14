@@ -1,0 +1,17 @@
+# ninja log v5
+12	4877	6849654532548726	CMakeFiles/untitled.dir/main.cpp.obj	b952aac37116465b
+14	46015	6849654943661528	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	3388419fbb9112d7
+51038	52329	6849655006925047	untitled.exe	ce956c441541e169
+46018	50895	6849654992784315	lib/libgtest.a	441516d14217197a
+15	8343	6849654566530617	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	fabbe8ac3ed233b6
+50895	51038	6849654994234398	lib/libgtest_main.a	fa1dfc6f3c52a59d
+51038	52329	6849655006925047	C:/Users/Kot/CLionProjects/FinalProject/untitled/cmake-build-debug/untitled[1]_tests.cmake	ce956c441541e169
+51038	52329	6849655006925047	untitled[1]_tests.cmake	ce956c441541e169
+10	3514	6849656179686567	CMakeFiles/untitled.dir/main.cpp.obj	b952aac37116465b
+3515	7770	6849656222358924	untitled.exe	ce956c441541e169
+3515	7770	6849656222358924	untitled[1]_tests.cmake	ce956c441541e169
+3515	7770	6849656222358924	C:/Users/Kot/CLionProjects/FinalProject/untitled/cmake-build-debug/untitled[1]_tests.cmake	ce956c441541e169
+8	3207	6849657029623637	CMakeFiles/untitled.dir/main.cpp.obj	b952aac37116465b
+3208	7229	6849657069846284	untitled.exe	ce956c441541e169
+3208	7229	6849657069846284	untitled[1]_tests.cmake	ce956c441541e169
+3208	7229	6849657069846284	C:/Users/Kot/CLionProjects/FinalProject/untitled/cmake-build-debug/untitled[1]_tests.cmake	ce956c441541e169
